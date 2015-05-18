@@ -1,0 +1,5 @@
+*.o
+.objs
+newapp.so
+assets.h
+cert
